@@ -112,3 +112,5 @@ The model provides:
 - Training stops automatically if no improvement
 - Best model version is saved
 - Regular checks prevent overtraining
+
+Kaggle: https://www.kaggle.com/code/cisemh/ann-8/
